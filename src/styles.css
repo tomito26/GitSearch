@@ -2,7 +2,7 @@
 @import "~bootstrap/dist/css/bootstrap.css";
 body{
     background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)),url(./assets/pexels-max-deroin-51415.jpg);
-    height: 140vh;
+    height: 150vh;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
