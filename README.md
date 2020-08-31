@@ -4,6 +4,9 @@ This is an application where the user enters their github usernames and it gener
 ![gitprofile](gitprof.png)
 ![gitrepo](gitrepo.png)
 
+## Author 
+* Thomas Khaemba
+
 ## Installations
 * nodejs
 * npm
