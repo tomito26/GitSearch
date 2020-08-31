@@ -28,5 +28,22 @@ To access the the live webpage you just type ng serve
 ```
 $ ng serve --open
 ```
-I
+Or you can pick the option of downlading the zip file of the project then you right click and choose extract  then you follow the steps above  on getting into the directory to the  to accessing the live webpage
+ 
+ 
+ ## Technologies Used
+ * HTML5
+ * CSS3
+ * Angular
+ * Typescript
+ * Git API
+## Contact
+For any assistance or collaboration reach out to me on tommybwah@gmail.com
+## Copyright and Licence
+Licensed under [MIT license](license)
 
+ 
+
+ 
+
+  
