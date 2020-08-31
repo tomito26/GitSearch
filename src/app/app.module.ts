@@ -11,7 +11,8 @@ import { GithubService } from './githubservice/github.service';
 import { ReposComponent } from './repos/repos.component';
 import { ReposerviceService } from '../app/reposervice/reposervice.service';
 import { UserProfileComponent } from './user-profile/user-profile.component';
-import { PageNotFoundComponent } from './page-not-found/page-not-found.component'
+import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
+import { DateCountPipe } from './date-count.pipe'
 @NgModule({
   declarations: [
     AppComponent,
@@ -20,6 +21,7 @@ import { PageNotFoundComponent } from './page-not-found/page-not-found.component
     ReposComponent,
     UserProfileComponent,
     PageNotFoundComponent,
+    DateCountPipe,
     
   ],
   imports: [
