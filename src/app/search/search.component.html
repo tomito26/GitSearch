@@ -1,0 +1,8 @@
+<form (ngSubmit) = 'showUser(userform)'  #userform='ngForm'>
+    <div class="input-group mb-3 pt-5 w-75 ml-auto mr-auto">
+        <input type="text" class="form-control" placeholder="Search" aria-label="Search"  name="searchItem" id="searchItem" [(ngModel)]="searchItem"  aria-describedby="button-addon2">
+        <div class="input-group-append">
+            <input class="btn btn-outline-secondary" type="submit"   value="search">
+        </div>
+    </div>
+</form>
