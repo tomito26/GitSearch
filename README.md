@@ -37,9 +37,9 @@ Or you can pick the option of downlading the zip file of the project then you ri
  * Angular
  * Typescript
  * Git API
-## Contact
+## Support & Contact
 For any assistance or collaboration reach out to me on tommybwah@gmail.com
-## Copyright and Licence
+## Copyright and License
 Licensed under [MIT license](license)
 
  
