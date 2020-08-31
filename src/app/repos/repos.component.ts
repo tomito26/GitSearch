@@ -11,7 +11,7 @@ export class ReposComponent implements OnInit {
   repo:Repo[];
 
   constructor(private repoService:ReposerviceService) { }
-  getRepo(searchItem:string){
+  getrepository(searchItem:string){
     this.repoService.getRepo(searchItem).subscribe(data=>{
       this.repo = data
       console.log(this.repo)
@@ -19,7 +19,7 @@ export class ReposComponent implements OnInit {
     })
   }
   ngOnInit() {
-    this.getRepo('tomito26')
+    this.getrepository('tomito26')
   }
 
 }
