@@ -4,6 +4,18 @@ This is an application where the user enters their github usernames and it gener
 ![gitprofile](gitprof.png)
 ![gitrepo](gitrepo.png)
 
+## BDD(Behaviour Driven Development)
+|    Inputs         |  Descriptions         |
+  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+| username    | github username eg tomito26 |
+
+|   Outputs    | Description           |
+    
+|  _ _ _ _ _ | _ _ _ _ _ _ _ _ _ _ _ _ |
+
+|  User profile data |profile info of the user you have entered|
+
+| Repositories  |  repositoriesof the user you have entered|
 ## Author 
 * Thomas Khaemba
 
@@ -32,8 +44,7 @@ To access the the live webpage you just type ng serve
 $ ng serve --open
 ```
 Or you can pick the option of downlading the zip file of the project then you right click and choose extract  then you follow the steps above  on getting into the directory to the  to accessing the live webpage
- 
- 
+
  ## Technologies Used
  * HTML5
  * CSS3
